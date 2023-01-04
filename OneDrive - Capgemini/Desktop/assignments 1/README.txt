@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <HEAD
+=======
+< HEAD
+>>>>>>> jss-assignment
 happy
 birthday
 to
